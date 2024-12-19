@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @neonboy06
-- 👀 I’m interested in AI development 
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: My Mail neonboywastaken@gmail.com
+- 👋 Hi, I’m CR._.2006
+- 👀 I’m interested in AI development, Game Devlopment
+- 🌱 I’m currently learning Python, C, Java
+- 📫 How to reach me: Dont Try
 
 <!---
 neonboy06/neonboy06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
